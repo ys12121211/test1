@@ -1,5 +1,7 @@
 package test;
 
 public class Test {
-     int a=1;
+     String i="111";
+     int a=2;
+     int b=3;
 }
